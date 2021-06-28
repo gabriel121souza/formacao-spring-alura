@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+/home/gabriel/workspace/ws-alura/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2010821097.index
+/gerenciador/src
+/home/gabriel/workspace/ws-alura/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/556978966.index
+/gerenciadorProduto/src/main/java
